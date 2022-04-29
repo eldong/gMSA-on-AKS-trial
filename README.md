@@ -1,5 +1,7 @@
 # gMSA-on-AKS-trial
 
+This is a fork of the repo created by Vinicius Apolinario.  It changes the domain controller to not have a public ip address and add a second VM to be used as a jumpbox to the DC.
+
 Welcome to the "Deploy AKS for gMSA validation" PowerShell script. 
 Use the instructions below to deploy a new Azure environment to try out the gMSA on AKS feature.
 
